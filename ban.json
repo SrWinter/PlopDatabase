@@ -1,1 +1,6 @@
-
+{
+    "Lucifer": {
+        "banneduntil": "2/2/2099",
+        "BanReason": "British"
+    }
+}
