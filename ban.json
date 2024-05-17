@@ -34,5 +34,9 @@
     "LincButBetter": {
         "banneduntil": "2/2/2099",
         "BanReason": "Being a part of the group trying to get our map taken down"
+    },
+    "Ren": {
+        "banneduntil": "2/2/2099",
+        "BanReason": "Test"
     }
 }
