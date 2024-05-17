@@ -2,5 +2,9 @@
     "SrWinter": {
         "banneduntil": "2099/10/2",
         "BanReason": "Test"
+    },
+    "Luck": {
+        "banneduntil": "2/2/2099",
+        "BanReason": "Gay"
     }
 }
