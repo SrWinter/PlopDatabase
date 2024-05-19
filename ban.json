@@ -14,5 +14,9 @@
     "test": {
         "banneduntil": "2099/2/2",
         "BanReason": "test"
+    },
+    "SrWinterTest": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "test"
     }
 }
