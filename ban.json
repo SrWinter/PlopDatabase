@@ -22,5 +22,9 @@
     "SrWinterTestTest": {
         "banneduntil": "2099/2/2",
         "BanReason": "test"
+    },
+ "CallSignSeraph": {
+        "banneduntil": "2099/5/19",
+        "BanReason": "Brought this on youtdrlg"
     }
 }
