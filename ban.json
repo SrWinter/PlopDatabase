@@ -26,9 +26,4 @@
     "CallSignSeraph": {
         "banneduntil": "2099/5/19",
         "BanReason": "Brought this on yourself"
-    },
-    "DatabasesExtreme": {
-        "banneduntil": "2099/10/2",
-        "BanReason": "Test"
-    }
 }
