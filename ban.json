@@ -42,5 +42,9 @@
     "MonarchX": {
         "banneduntil": "2024/5/28",
         "BanReason": "RDM"
+    },
+    "CobrainaVr": {
+        "banneduntil": "2024/5/28",
+        "BanReason": "RDM"
     }
 }
