@@ -82,5 +82,9 @@
     "ThyAnteater": {
         "banneduntil": "2024/5/26",
         "BanReason": "Cross-Teaming"
+    },
+    "user1B4IRX": {
+        "banneduntil": "2024/5/28",
+        "BanReason": "MassRDM"
     }
 }
