@@ -50,5 +50,9 @@
     "the.betterman": {
         "banneduntil": "2024/5/31",
         "BanReason": "Cross-Teaming/RDM"
+    },
+    "Scout520": {
+        "banneduntil": "2024/5/31",
+        "BanReason": "Cross-Teaming/RDM"
     }
 }
