@@ -46,5 +46,9 @@
     "CobrainaVr": {
         "banneduntil": "2024/5/28",
         "BanReason": "RDM"
+    },
+    "RentoBoy": {
+        "banneduntil": "2024/5/31",
+        "BanReason": "Cross-Teaming/RDM"
     }
 }
