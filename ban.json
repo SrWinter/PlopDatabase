@@ -94,5 +94,9 @@
     "bundo21": {
         "banneduntil": "2024/5/26",
         "BanReason": "RDM"
+    },
+    "emobob": {
+        "banneduntil": "2024/5/26",
+        "BanReason": "RDM"
     }
 }
