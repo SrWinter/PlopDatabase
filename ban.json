@@ -202,5 +202,9 @@
     "evildevil": {
         "banneduntil": "2024/6/1",
         "BanReason": "Tk trying too free prisoners"
+    },
+    "Cocaxsniffer": {
+        "banneduntil": "2024/5/29",
+        "BanReason": "Crossteaming"
     }
 }
