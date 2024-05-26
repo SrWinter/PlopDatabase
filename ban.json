@@ -158,5 +158,9 @@
     "EREP14": {
         "banneduntil": "2024/5/29",
         "BanReason": "Cross Teaming / RDM"
+    },
+    "Segidag69420": {
+        "banneduntil": "2024/5/29",
+        "BanReason": "WallBanging / RDM"
     }
 }
