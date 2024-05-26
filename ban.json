@@ -182,5 +182,9 @@
     "demolitionofundead": {
         "banneduntil": "2024/5/30",
         "BanReason": "Teaming"
+    },
+    "Brodster": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Tk"
     }
 }
