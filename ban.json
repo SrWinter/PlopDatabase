@@ -202,5 +202,9 @@
     "forwardbarrage": {
         "banneduntil": "2024/6/1",
         "BanReason": "Mass tk"
+    },
+    "NLK_Seige": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Mass tk"
     }
 }
