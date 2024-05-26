@@ -198,5 +198,9 @@
     "Hunter022511": {
         "banneduntil": "2024/5/29",
         "BanReason": "Teamkilling after warning idiot"
+    },
+    "forwardbarrage": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Mass tk"
     }
 }
