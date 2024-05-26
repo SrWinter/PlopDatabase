@@ -178,5 +178,9 @@
     "datboi.jayy": {
         "banneduntil": "2024/5/29",
         "BanReason": "Mrdm and crossteaming"
+    },
+    "demolitionofundead": {
+        "banneduntil": "2024/5/30",
+        "BanReason": "Teaming"
     }
 }
