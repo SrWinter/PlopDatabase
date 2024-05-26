@@ -186,5 +186,9 @@
     "Brodster": {
         "banneduntil": "2024/6/1",
         "BanReason": "Tk"
+    },
+    "Techie6": {
+        "banneduntil": "2099/2/22",
+        "BanReason": "Spawn Camping horse ryan guy"
     }
 }
