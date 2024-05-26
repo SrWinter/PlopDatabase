@@ -15,21 +15,9 @@
         "banneduntil": "2099/2/2",
         "BanReason": "you know why"
     },
-    "4LF13.2869": {
-        "banneduntil": "2024/5/27",
-        "BanReason": "RDM (congrats first actual ban)"
-    },
     "Cat_Lover21": {
         "banneduntil": "2099/2/22",
         "BanReason": "Ok"
-    },
-    "SuperMonkeyy": {
-        "banneduntil": "2024/5/27",
-        "BanReason": "RDM"
-    },
-    "dj8251": {
-        "banneduntil": "2024/5/27",
-        "BanReason": "RDM"
     },
     "lorenzo.enzo": {
         "banneduntil": "2024/6/13",
@@ -59,10 +47,6 @@
         "banneduntil": "2024/5/31",
         "BanReason": "Cross-Teaming/RDM"
     },
-    "fiames": {
-        "banneduntil": "2024/5/27",
-        "BanReason": "i just hate you"
-    },
     "Darkassassin9999": {
         "banneduntil": "2024/6/12",
         "BanReason": "I just don't like you"
@@ -70,10 +54,6 @@
     "toastednoodles45": {
         "banneduntil": "2024/6/12",
         "BanReason": "Cross-Teaming"
-    },
-    "Pro1525": {
-        "banneduntil": "2024/5/27",
-        "BanReason": "crying after i killed him one time"
     },
     "TrueAim": {
         "banneduntil": "2099/2/22",
@@ -151,10 +131,6 @@
         "banneduntil": "2024/5/28",
         "BanReason": "Mass Tk and RDM"
     },
-    "YTReloadedDuckie": {
-        "banneduntil": "2024/5/27",
-        "BanReason": "Tk"
-    },
     "EREP14": {
         "banneduntil": "2024/5/29",
         "BanReason": "Cross Teaming / RDM"
@@ -222,9 +198,5 @@
     "Hunter022511": {
         "banneduntil": "2024/5/29",
         "BanReason": "Teamkilling after warning idiot"
-    },
-    "Pitufo1213": {
-        "banneduntil": "2024/5/27",
-        "BanReason": "Rdming switching roles and killing prisoners"
     }
 }
