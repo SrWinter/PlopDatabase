@@ -230,5 +230,9 @@
     "Clogger0505": {
         "banneduntil": "2024/5/28",
         "BanReason": "RDM"
+    },
+    "batman.357.2022": {
+        "banneduntil": "2024/5/28",
+        "BanReason": "Cross Teaming"
     }
 }
