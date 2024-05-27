@@ -238,5 +238,9 @@
     "wj219": {
         "banneduntil": "2024/5/28",
         "BanReason": "Team Killing"
+    },
+    "defono": {
+        "banneduntil": "2024/5/28",
+        "BanReason": "random killing"
     }
 }
