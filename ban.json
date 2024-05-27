@@ -242,5 +242,9 @@
     "defono": {
         "banneduntil": "2024/5/28",
         "BanReason": "random killing"
+    },
+    "HellForSimps": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Rdm and Tk"
     }
 }
