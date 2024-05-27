@@ -246,5 +246,9 @@
     "HellForSimps": {
         "banneduntil": "2024/6/1",
         "BanReason": "Rdm and Tk"
+    },
+    "RickGrimesPrime": {
+        "banneduntil": "2099/1/5",
+        "BanReason": "You know why"
     }
 }
