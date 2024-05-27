@@ -234,5 +234,9 @@
     "batman.357.2022": {
         "banneduntil": "2024/5/28",
         "BanReason": "Cross Teaming"
+    },
+    "wj219": {
+        "banneduntil": "2024/5/28",
+        "BanReason": "Team Killing"
     }
 }
