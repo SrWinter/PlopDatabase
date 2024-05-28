@@ -362,5 +362,9 @@
     "Mintybluei": {
         "banneduntil": "2024/5/31",
         "BanReason": "Underaged"
+    },
+    "Thatonemonkey_real": {
+        "banneduntil": "2024/5/31",
+        "BanReason": "Mass teamkill"
     }
 }
