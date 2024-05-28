@@ -326,5 +326,9 @@
     "TheFanoogler": {
         "banneduntil": "2024/6/6",
         "BanReason": "Tk and Cross Teaming"
+    },
+    "Bot7k": {
+        "banneduntil": "2024/6/3",
+        "BanReason": "Mass RDM"
     }
 }
