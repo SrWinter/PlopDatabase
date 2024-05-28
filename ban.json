@@ -346,5 +346,9 @@
     "pimlean": {
         "banneduntil": "2024/6/1",
         "BanReason": "Mass tk"
+    },
+    "wyatt_is_hot": {
+        "banneduntil": "2024/7/12",
+        "BanReason": "Mass tk and rdm"
     }
 }
