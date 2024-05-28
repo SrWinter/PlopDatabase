@@ -406,5 +406,9 @@
     "Daneingboy.1234567": {
         "banneduntil": "2099/1/1",
         "BanReason": "Slurs and racism"
+    },
+    "Iamabot1o1_": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Rasicm"
     }
 }
