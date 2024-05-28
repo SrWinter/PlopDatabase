@@ -210,9 +210,5 @@
     "batman.357.2022": {
         "banneduntil": "2028/5/30",
         "BanReason": "Underaged"
-    },
-    "emobob": {
-        "banneduntil": "2024/5/9",
-        "BanReason": "Tk"
     }
 }
