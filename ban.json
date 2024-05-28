@@ -342,5 +342,9 @@
     "Breezy0401": {
         "banneduntil": "2024/6/6",
         "BanReason": "Mrdm and sit escape"
+    },
+    "pimlean": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Mass tk"
     }
 }
