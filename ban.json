@@ -298,5 +298,9 @@
     "LegatusPharaoh": {
         "banneduntil": "2024/6/4",
         "BanReason": "TK and Team Crossing"
+    },
+    "EMoney24": {
+        "banneduntil": "2024/7/4",
+        "BanReason": "Tk and escaping admin sit"
     }
 }
