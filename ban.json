@@ -222,5 +222,9 @@
     "itsdominator": {
         "banneduntil": "2024/6/1",
         "BanReason": "Mrdm and escaping admin sit"
+    },
+    "Snarki": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Mrdm and escaping sit"
     }
 }
