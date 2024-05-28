@@ -218,5 +218,9 @@
     "Shylme": {
         "banneduntil": "Date2024/5/28",
         "BanReason": "Rdm"
+    },
+    "itsdominator": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Mrdm and escaping admin sit"
     }
 }
