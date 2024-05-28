@@ -294,5 +294,9 @@
     "LegatusPharoh": {
         "banneduntil": "2024/6/4",
         "BanReason": "TK and Team Crossing"
+    },
+    "LegatusPharaoh": {
+        "banneduntil": "2024/6/4",
+        "BanReason": "TK and Team Crossing"
     }
 }
