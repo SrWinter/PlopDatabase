@@ -318,5 +318,9 @@
     "BaconBro_42": {
         "banneduntil": "2024/6/18",
         "BanReason": "Teaming and tk"
+    },
+    "biglifez": {
+        "banneduntil": "2024/6/15",
+        "BanReason": "Mass rdm"
     }
 }
