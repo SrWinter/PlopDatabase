@@ -374,5 +374,9 @@
     "bruigi.291": {
         "banneduntil": "2099/2/22",
         "BanReason": "Underaged & MRDM"
+    },
+    "antlan2015": {
+        "banneduntil": "2027/2/2",
+        "BanReason": "Your nine"
     }
 }
