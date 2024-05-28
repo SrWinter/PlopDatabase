@@ -214,5 +214,9 @@
     "Mateo.081500": {
         "banneduntil": "2030/1/1",
         "BanReason": "Underage"
+    },
+    "Shylme": {
+        "banneduntil": "Date2024/5/28",
+        "BanReason": "Rdm"
     }
 }
