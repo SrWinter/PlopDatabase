@@ -210,5 +210,9 @@
     "batman.357.2022": {
         "banneduntil": "2028/5/30",
         "BanReason": "Underaged"
+    },
+    "Mateo.081500": {
+        "banneduntil": "2030/1/1",
+        "BanReason": "Underage"
     }
 }
