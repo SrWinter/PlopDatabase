@@ -402,5 +402,9 @@
     "Clinefamily19": {
         "banneduntil": "2024/6/5",
         "BanReason": "Teamkilling"
+    },
+    "BBC407": {
+        "banneduntil": "2024/6/1",
+        "BanReason": "Rdm"
     }
 }
