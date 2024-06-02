@@ -87,10 +87,6 @@
         "banneduntil": "2027/5/28",
         "BanReason": "Underage"
     },
-    "eli.eco2": {
-        "banneduntil": "2024/6/3",
-        "BanReason": "Mass Rdm and guard tk"
-    },
     "yrmom776": {
         "banneduntil": "2025/5/30",
         "BanReason": "Mass RDM"
@@ -171,10 +167,6 @@
         "banneduntil": "2024/6/6",
         "BanReason": "Tk and Cross Teaming"
     },
-    "Bot7k": {
-        "banneduntil": "2024/6/3",
-        "BanReason": "Mass RDM"
-    },
     "Deft0nes4L": {
         "banneduntil": "2024/7/1",
         "BanReason": "Mass tk"
@@ -227,10 +219,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Rasicm"
     },
-    "Icecru5her": {
-        "banneduntil": "2024/6/3",
-        "BanReason": "Abusing glitches for kill"
-    },
     "JaylaTheFolf2": {
         "banneduntil": "2024/7/3",
         "BanReason": "No Consequences \ud83d\ude02"
@@ -254,9 +242,5 @@
     "DreamyBullDad": {
         "banneduntil": "2024/7/13",
         "BanReason": "False vote kicking"
-    },
-    "Jackson_CJ": {
-        "banneduntil": "2024/6/3",
-        "BanReason": "TK False Vote Kicking"
     }
 }
