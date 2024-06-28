@@ -170,5 +170,9 @@
     "Liquid69": {
         "banneduntil": "Date: 2024/6/8",
         "BanReason": "Test"
+    },
+    "DreadDEADSHOT": {
+        "banneduntil": "Date: 2024/1/7",
+        "BanReason": "Teamkilling"
     }
 }
