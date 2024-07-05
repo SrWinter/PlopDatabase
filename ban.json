@@ -198,5 +198,9 @@
     "R4ND0M": {
         "banneduntil": "2029/9/9",
         "BanReason": "Hard r last time map was up"
+    },
+    "Cat.809": {
+        "banneduntil": "2024/8/20",
+        "BanReason": "RDM and to"
     }
 }
