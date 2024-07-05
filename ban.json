@@ -166,5 +166,9 @@
     "GALXSEZ": {
         "banneduntil": "2099/2/2",
         "BanReason": "Racism"
+    },
+    "MJAT": {
+        "banneduntil": "2024/8/20",
+        "BanReason": "Mass tk"
     }
 }
