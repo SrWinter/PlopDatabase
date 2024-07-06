@@ -210,5 +210,9 @@
     "Nyplex_": {
         "banneduntil": "2024/8/20",
         "BanReason": "TK and RDM"
+    },
+    "Tax_Evader1214": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "hard R"
     }
 }
